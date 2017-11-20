@@ -1,10 +1,10 @@
 # Site settings
 title: Keegan Blog
-SEOTitle: 胡克勤的博客 | Keegan Blog
+SEOTitle: Keegan Hu
 header-img: img/home-bg.jpg
 email: hukq16@gmail.com
-description: "code"
-keyword: "life"
+description: ""
+keyword: ""
 url: "https://glintligo.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
